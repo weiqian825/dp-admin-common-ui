@@ -1,0 +1,9 @@
+example
+dist
+node_modules
+src
+tests
+.vscode
+*.config.js
+*.conf.js
+gulpfile.js

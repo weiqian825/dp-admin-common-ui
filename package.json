@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "git-cz": "~1.6.0"
+  },
   "bundledDependencies": [
     "dp-common-ui"
   ]
